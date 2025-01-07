@@ -8,7 +8,7 @@ public class BftoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BftoApplication.class, args);
-		System.out.println("Hello World");
+		System.out.println("Hello! World");
 	}
 
 }
